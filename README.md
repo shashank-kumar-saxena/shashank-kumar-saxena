@@ -15,7 +15,7 @@
 
 😄 Fun Fact : I listen Song by zayn almost 6 hours everyday
 
-[![favorite Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shashank-kumar-saxena&langs_count=8)]
+![favorite Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shashank-kumar-saxena&langs_count=8)
 
 ![Shashank GitHub Status](https://github-readme-stats.vercel.app/api?username=shashank-kumar-saxena&count_private=true)
 
