@@ -1,6 +1,5 @@
 ### Hi, I'm Shashank Kumar 👋
 
-
 -🔭 I’m currently working on App Development
 
 🌱 I’m currently learning Competitive Programming
@@ -12,7 +11,8 @@
 😄 Fun Fact : I listen Song by zayn almost 6 hours everyday
 
 
-![Shashank GitHub Status](https://github-readme-stats.vercel.app/api?username=shashank-kumar-saxena&count_private=true)![favorite Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shashank-kumar-saxena&langs_count=8)
+![Shashank GitHub Status](https://github-readme-stats.vercel.app/api?username=shashank-kumar-saxena&count_private=true)    
+![favorite Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shashank-kumar-saxena&langs_count=8)
 
 
 
