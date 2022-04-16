@@ -8,7 +8,7 @@
 
 👯 I’m looking to collaborate on App Development
 
-😄 Fun Fact : I listen Song by zayn almost 6 hours everyday
+😄 Fun Fact : I listen Song by zayn almost 3 hours everyday
 
 
 ![Shashank GitHub Status](https://github-readme-stats.vercel.app/api?username=shashank-kumar-saxena&count_private=true)    
